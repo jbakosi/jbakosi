@@ -1,8 +1,7 @@
 <img align="left" alt="jbakosi ' Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbakosi&show_icons=true&hide_border=true" />
 
-<br />
 
----
+<br />
 
 ### Jozsef's other profiles
 
